@@ -17,7 +17,7 @@
   i. 컴파일 환경 설정하기  
   j. github 및 local git 서버 설치하기 등...
   
-3. 스크립트 작성 방식
+3. 스크립트 작성 방식  
   a. script 메뉴 선택형은 [링크](https://codechacha.com/ko/shell-script-select/) 참고  
   b. script command line 형은 [유사한 프로젝트](https://swissfileknife.sourceforge.net/) 참고  
   
